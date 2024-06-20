@@ -6,7 +6,7 @@
   "lowIVLog": "10.00",
   "highIVLog": "85.00",
   "logWebhook": "WEBHOOK TO LOG CATCHES",
-  "ownerID": [ "1216030559428411482", "..." ],
+  "ownerID": [ "964042472986660864", "..." ],
   "prefix": "!",
   "globalCatch": false,
   "blacklistedGuilds": [ "716390832034414685", "..." ]
